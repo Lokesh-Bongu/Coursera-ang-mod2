@@ -26,7 +26,10 @@
       var service = this;
       var toBuyList = [
         { name: 'cookies', quantity: 10 },
-        { name: 'chocolates', quantity: 5 }
+        { name: 'chocolates', quantity: 5 },
+        { name: 'Fruits', quantity: 3 },
+        { name: 'Biscuits', quantity: 2 },
+        { name: 'Maggie', quantity: 5 }
         // Add more items as needed
       ];
       var boughtList = [];
